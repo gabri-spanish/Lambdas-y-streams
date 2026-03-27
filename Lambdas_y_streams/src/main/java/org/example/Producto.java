@@ -12,5 +12,16 @@ public class Producto {
         this.categoria = categoria;
     }
 
+    public String getNombre() {
+        return nombre;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public String getCategoria() {
+        return categoria;
+    }
 
 }
