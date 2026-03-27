@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lambda;
 
 public class Comparador {
     public static void main(String[] args) {
